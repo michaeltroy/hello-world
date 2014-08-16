@@ -1,0 +1,7 @@
+{
+  "name": "hello-world#gh-pages",
+  "private": true,
+  "dependencies": {
+    "hello-world": "michaeltroy/hello-world#master"
+  }
+}

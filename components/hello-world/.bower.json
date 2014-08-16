@@ -1,0 +1,28 @@
+{
+  "name": "hello-world",
+  "authors": [
+    "@michaeltroy"
+  ],
+  "description": "My first Polymer web component.",
+  "keywords": "seed, polymer, web-components",
+  "main": "seed-element.html",
+  "license": "MIT",
+  "homepage": "https://github.com/michaeltroy/hello-world",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.4",
+    "polymer-test-tools": "Polymer/polymer-test-tools#~0.3.3"
+  },
+  "_release": "adeed53ab6",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "adeed53ab6717119976ce4658dee58dc7341aa6d"
+  },
+  "_source": "git://github.com/michaeltroy/hello-world.git",
+  "_target": "master",
+  "_originalSource": "michaeltroy/hello-world",
+  "_direct": true
+}
